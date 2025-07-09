@@ -72,10 +72,6 @@ cd netflix-clone
 - Creating responsive design
 - Implementing interactive FAQ section
 
-## 📞 Contact
-
-Prem Singh - [LinkedIn](https://www.linkedin.com/in/premdood)
-
 ---
 
 **Disclaimer**: This project is for educational purposes only and is not affiliated with Netflix.
