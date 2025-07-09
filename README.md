@@ -4,6 +4,10 @@
 
 This project is a responsive clone of the Netflix landing page, created using pure HTML, CSS, and JavaScript. It demonstrates the ability to recreate a modern, interactive web interface with attention to design and user experience.
 
+## 🌐 Live Demo
+
+[View Live Demo](https://premdood.github.io/netflix-clone)
+
 ## 🌟 Features
 
 - Fully responsive design
@@ -25,13 +29,6 @@ This project is a responsive clone of the Netflix landing page, created using pu
 ### Desktop View
 <img src="screenshots/desktop-view-1.png" />
 <img src="screenshots/desktop-view-2.png" />
-
-### Mobile view
-<div>
-  <img src="screenshots/mobile-view-1.jpg" width="270" />
-  <img src="screenshots/mobile-view-2.jpg" width="270" />
-  <img src="screenshots/mobile-view-3.jpg" width="270" />
-</div>
 
 ## 🛠 Installation
 
@@ -74,10 +71,6 @@ cd netflix-clone
 - Replicating Netflix's complex layout
 - Creating responsive design
 - Implementing interactive FAQ section
-
-## 🌐 Live Demo
-
-[View Live Demo](https://premdood.github.io/netflix-clone)
 
 ## 📞 Contact
 
